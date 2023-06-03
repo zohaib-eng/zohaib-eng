@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Akhter</h1>
-<h3 align="center">I am software engineer. A passionate back-end developer from Pakistan</h3>
+<h3 align="center">I am software engineer. A passionate back-end developer from Pakistan.</h3>
 <br>
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
